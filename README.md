@@ -1,2 +1,2 @@
-# resumé
-The Resumé of Nathan A. Long
+# Resumé
+The resumé of Nathan A. Long
