@@ -3,7 +3,7 @@
 
 ## Summary
 Visionary cybersecurity leader with two decades of responding to sophisticated threats with human-centric, anti-fragile defenses.  
-I build resilient, self-strengthening systems that thrive under pressure and embed the motivation-driven behavior change central to digital trust. By fostering collaborative innovation, I distill technical complexity into clear, executive-ready strategies that inspire partners and customers, delivering measurable outcomes through persuasive influence rather than command. Where most see firewalls, I design future-proof security architectures with a human core.
+I build resilient, self-strengthening systems that thrive under pressure and embed the motivation-driven behavior change central to digital trust.  By fostering collaborative innovation, I distill technical complexity into clear, executive-ready strategies that inspire partners and customers, delivering measurable outcomes through persuasive influence rather than command. Where most see firewalls, I design future-proof security architectures with a human core.
 
 ## Work Experience
 ### Founder and President
