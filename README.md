@@ -65,7 +65,6 @@ Cornerstone Solutions | Nov 1998 - Apr 2002
 ## Education
 Bachelors of Science, English  
 Liberty University, Lynchburg, Virginia  
-Graduation: September, 1997
 
 ## Skills
 Strategic Communication & Storytelling  
